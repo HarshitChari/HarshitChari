@@ -3,4 +3,4 @@
 #### - 🌱 I’m currently learning React.js
 #### - 📫 How to reach me: harshit.josh@gmail.com
 
-[![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=HarshitChari)]
+![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=HarshitChari)
