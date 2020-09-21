@@ -6,3 +6,4 @@
 ![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=HarshitChari)
 
 ![GitHub Logo](/images/"Harshit Chari (4)".png)
+Format: ![Alt Text](url)
