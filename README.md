@@ -8,9 +8,16 @@ I am _Harshit Chari_. I am pursuing my Bachelor of Engineering focused in Inform
 - Core Team Member at Developer Student Club, DYPCOE Pune
 
 ### 📫 How to reach me?
-- [Twitter](https://twitter.com/harshit_chari) 
-- [LinkedIn](https://www.linkedin.com/in/harshit-chari-1085aa181/) 
-- [Medium](https://medium.com/@harshit.josh)
+
+<a href="https://twitter.com/harshit_chari" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/harshit-chari-1085aa181/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@harshit.josh" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a> 
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/harshit_chari/count.svg" />
